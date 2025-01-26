@@ -11,7 +11,7 @@ current_attack = None  # Store details of the current attack
 attack_history = []  # Store attack logs
 
 TELEGRAM_BOT_TOKEN = '7874377360:AAE2awPw4g4YOyP2oL7o1pjtek8FREGr5u0'
-ADMIN_USER_ID = 1636884874
+ADMIN_USER_ID = 6171974438
 MONGO_URI = "mongodb+srv://Kamisama:Kamisama@kamisama.m6kon.mongodb.net/"
 DB_NAME = "IGL"
 COLLECTION_NAME = "users"
